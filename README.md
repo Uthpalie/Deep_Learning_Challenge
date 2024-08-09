@@ -29,4 +29,5 @@ Compiling, Training, and Evaluating the Model
   Increased the layers and neurons of the layers.
 
 ## Summary: 
+The final result of the model is that it reached a 74% accuracy with 0.5% loss. However, it was still unable to reach 75% accuracy with variations of increasing/decreasing layers, neurons and removing some columns. I would think a model such as Random Forest might be better at this classification problem. It may be able to simplify the process and provide a more accurate outcome.
 
