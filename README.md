@@ -19,12 +19,12 @@ Data Preprocessing
 Compiling, Training, and Evaluating the Model
 
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
-  The best accuracy of 74% was acheived by a 3 hidden layer approach with neurons as below with activation function as 'relu'.
+  The best accuracy of 72% was acheived by a 3 hidden layer approach with neurons as below with activation function as 'relu'.
   hidden_nodes_layer1 = 200
   hidden_nodes_layer2 = 100
   hidden_nodes_layer3 = 50
 * Were you able to achieve the target model performance?
-  Only upto 74%
+  Only upto 72%
 * What steps did you take in your attempts to increase model performance?
   Increased the layers and neurons of the layers.
 
